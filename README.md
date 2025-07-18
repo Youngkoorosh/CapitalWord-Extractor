@@ -81,4 +81,4 @@ Please read our Contributing Guidelines for more details.
 For questions or feedback, reach out to:
 * Maintainer: koorosh.nrp@gmail.com
 
-* Project Repository: CapitalWord Extractor
+* Project Repository: CapitalWord-Extractor
