@@ -56,7 +56,7 @@ Output Example:
 ```
 For more details, see the documentation folder (if applicable).
 
-##Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
