@@ -72,12 +72,12 @@ Contributions are welcome! To contribute:
 
 Please read our Contributing Guidelines for more details.
 
-##Acknowledgments
+## Acknowledgments
 * Built with Python's standard library for simplicity and accessibility.
 
 * Inspired by text processing challenges and the need for simple, efficient tools.
 
-##Contact
+## Contact
 For questions or feedback, reach out to:
 * Maintainer: koorosh.nrp@gmail.com
 
